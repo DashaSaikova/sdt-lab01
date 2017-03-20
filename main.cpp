@@ -4,5 +4,5 @@ int main()
 {
     int a,b;
     cout<<"Enter a,b:";
-    cin>>a>>b;
+    cin>>"a+b=">>a+b '\n';
 }
